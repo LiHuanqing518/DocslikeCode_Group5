@@ -1,43 +1,36 @@
-# Technical Writing for RICOH PJ X3340 Projector Operating Manual
+# Technical Writing for RICOH PJ X3340 Projector Operating Manual理光投影机 RICOH PJ X3340 操作说明书
 
-Technical writing is writing or drafting technical communication used in technical and occupational fields, such as computer hardware and software, engineering, chemistry, aeronautics, robotics, finance, medical, consumer electronics, biotechnology, and forestry. ~ Wikipedia
+Docs like code means treating docs as artfully and mindfully as code. ~ <https://www.docslikecode.com/>
 
 ## Table of Contents  
-* Community  
-Courses  
-Resources  
-Videos  
-Useful Tools  
-Conferences
-Speaker Decks
-Books
-Podcasts
-Style Guides
-Technical Writers to Follow
-Community
-Hashnode
-r/technicalwriting
-Google's Season of Docs
-freeCodeCamp News
-ycombinator News
-DEV
-Hackernoon
-Write the Docs
-The Good Docs Project
-LinkedIn Technical Writing Community
-Society for Technical Communication
-LogRocket Blog
-Scotch
-The Manuscript Academy
-Courses
-Study Technical Writing
-Technical Writing: Documentation on Software Projects
-Coding for Writers: Basic Programming
-Class Central Technical Writing
-Professional Technical Writing: Advance Your Writing Skills
-Technical Writing: Master Your Writing Career
-English 305: Advanced Technical Writing
-Technical Communication Techniques and Principles for Project Managers
-Learn DITA
+* 介绍  
+* 准备使用投影仪   
+* 投影图像   
+* 更改投影设置
+* 故障排除
+* 维护
 
-## Contributors
+## Background
+* 用户需求分析
+![UJM](C:/Users/Miranda Go/OneDrive/桌面/img.jpg)
+* 实际使用场景
+![场合_家中观影](C:/Users/Miranda Go/OneDrive/桌面/img.jpg)
+
+## Division of Labor
+* 
+* 
+
+## Format of Document
+* 统一文件夹结构、文件名称、存放路径
+* 统一图片左对齐
+* 统一表格格式
+* 统一一级、二级、三级标题样式
+* 字体大小、颜色
+
+## Document Development
+* 增添图像辅助说明
+* 使用用户易懂的语言
+* 多用章节条目段落辅助理解
+
+## Contributors ✨
+
