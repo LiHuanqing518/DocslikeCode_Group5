@@ -40,4 +40,10 @@ Docs like code means treating docs as artfully and mindfully as code. ~ <https:/
 * 多用章节条目段落辅助理解
 
 ## Contributors ✨
+@LiHuanqing518
+@djj-djj
+@JayusesH
+@Elizabeth386
+@Bella445
+@QQQQQIU
 
