@@ -12,9 +12,9 @@ Docs like code means treating docs as artfully and mindfully as code. ~ <https:/
 
 ## Background
 * 用户需求分析
-![UJM](C:/Users/Miranda Go/OneDrive/桌面/img.jpg)
+![用户画像](C:\Users\Miranda Go\OneDrive\桌面\img.jpg "用户画像")
 * 实际使用场景
-![场合_家中观影](C:/Users/Miranda Go/OneDrive/桌面/img.jpg)
+![场合_家中观影](C:\Users\Miranda Go\OneDrive\桌面\img.jpg "场合_家中观影")
 
 ## Division of Labor
 | 小组成员 |                                        任务                                        |   |   |   |   |   |
@@ -25,7 +25,7 @@ Docs like code means treating docs as artfully and mindfully as code. ~ <https:/
 | 董京璟   | “文档代码化开发”的方式再次创作说明书                                               |   |   |   |   |   |
 | 覃子秋   | “文档代码化开发”的方式再次创作说明书                                               |   |   |   |   |   |
 | 李浣青   | 使用Readme描述项目的分工、使用issues记录交叉检查 发现的错误、使用wiki共享小组知识; |   |   |   |   |   |
-* 
+
 
 ## Format of Document
 * 统一文件夹结构、文件名称、存放路径
