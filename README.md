@@ -20,10 +20,10 @@ Docs like code means treating docs as artfully and mindfully as code. ~ <https:/
 | 小组成员 |                                        任务                                        |
 |----------|:----------------------------------------------------------------------------------:|
 | 黄心雨   | rST、markdown语法重新创作说明书、使用issues记录交叉检查发现的错误  |
-| 陈一风   | rST、markdown语法重新创作说明书、给文档增加评论功能、启动搜索引擎、语法检查等 |
+| 陈一风   | rST、markdown语法重新创作说明书、给文档增加highlight等 |
 | 孙焕然   | rST、markdown语法重新创作说明书、安装各类Extensions，扩展sphinx的功能 |
-| 董京璟   | rST、markdown语法重新创作说明书、定制新主题、改变原有默认属性、 |
-| 覃子秋   | rST、markdown语法重新创作说明书、内容需发布为Webhelp，并将站点托管在github pages 上  |
+| 董京璟   | rST、markdown语法重新创作说明书、内容发布为Webhelp，定制新主题、改变原有默认属性、扩展sphinx的功能 |
+| 覃子秋   | rST、markdown语法重新创作说明书、内容发布为Webhelp，并将站点托管在github pages 上  |
 | 李浣青   | markdown语法制作Readme、描述项目的分工、使用wiki共享小组知识；使用github 进行协同和版本控制 |
 
 
