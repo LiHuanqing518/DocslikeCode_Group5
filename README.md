@@ -12,9 +12,9 @@ Docs like code means treating docs as artfully and mindfully as code. ~ <https:/
 
 ## Background
 * 用户需求分析
-![用户画像](C:\Users\Miranda Go\OneDrive\桌面\img.jpg "用户画像")
+
 * 实际使用场景
-![场合_家中观影](C:\Users\Miranda Go\OneDrive\桌面\img.jpg "场合_家中观影")
+
 
 ## Division of Labor
 | 小组成员 |                                        任务                                        |
